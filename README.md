@@ -75,7 +75,7 @@
 - Make sure  the status is on to accept payment through kashier
 - Save configuration.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/configuration_test.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/configuration-test.png)
 
 ### Go live
 
