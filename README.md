@@ -7,7 +7,7 @@
 
 ### Features
 
-- Fully PCI DSS compliant as a Level 1 Service.
+- Fully PCI DSS compliant as a Level 1 Service for merchant operating in Egypt.
 
 - IFrame Integration.
 
@@ -29,9 +29,10 @@
 
 - Click the **Upload** button, then select the downloaded **zip** file (Step 1), then click the **Continue** button and wait for the process to complete.
 - Navigate to **Extensions > Extensions**.
-- On the Extensions page, select **Payments** from the dropdown and install the **Kashier Payments Getaway** extension.
+- On the Extensions page, select **Payments** from the dropdown and install the **Kashier Payment Getaway** extension.
 
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/opencart_extn.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/open_cart_kashier.png)
 
 - After installation, proceed for configuration.
 
@@ -40,7 +41,7 @@
 
 - Log into **OpenCart Webstore Admin**.
 - Navigate to **Extensions** and then select **Extensions**.
-- On the **Extensions** page, select **Payments** from the dropdown and then install the **Kashier Payments Getaway** extension.
+- On the **Extensions** page, select **Payments** from the dropdown and then install the **Kashier Payment Getaway** extension.
 - Save the configuration below.
 
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/open_Cart_configuration.png)
@@ -56,4 +57,37 @@
    8. **Status** - Keep this Enabled to accept payment through kashier
    9. **Sort Order** - Set ordering in the payment methods list
 
+### Obtain Test Credentials
+
+- Login or Sign up on kashier.io https://merchant.kashier.io/
+- Navigate to Integrate now section > payment api keys.
+- Generate a new api key with your prefered name that describes your integration channel, there is 3 default api key you could use that is created when signing up.
+
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/apikeytest.png)
+
+- Copy Merchant ID visible under your user name "MID-xx-xx".
+- Insert the MID and Test Api Key in the Configuration page of the module.
+- Make sure the test mode is on.
+- set order status that will set for Successful, Failed, and Pending Payment.
+- Make sure  the status is on to accept payment through kashier
+- Save configuration.
+
+
+
+### Go live
+
+- After activating your account.
+- Make sure you are on live mode.
+- Navigate to Integrate now section > payment api keys
+- Generate a new api key with your prefered name that describes your integration channel, there is 3 default api key you could use that is created when signing up.
+
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/apikeylive.png)
+
+- Insert Live Api Key in the Configuration page of the module.
+- Remove the test mode check.
+- Save configuration.
+
 ### Your kashier Payment Gateway is enabled. Now you can accept payment through kashier.
+
+### Support
+- Leave us an inquiry ticket on support@kashier.io for questions.
