@@ -56,4 +56,4 @@
    8. **Status** - Keep this Enabled to accept payment through kashier
    9. **Sort Order** - Set ordering in the payment methods list
 
-### Your Paytm Payment Gateway is enabled. Now you can accept payment through kashier.
+### Your kashier Payment Gateway is enabled. Now you can accept payment through kashier.
