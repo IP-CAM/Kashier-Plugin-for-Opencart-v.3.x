@@ -46,9 +46,7 @@
 - Navigate to **Extensions** and then select **Extensions**.
 - On the **Extensions** page, select **Payments** from the dropdown and then install the **Kashier Payment Getaway** extension.
 - Save the configuration below.
-
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/open_Cart_configuration.png)
-
 - Save the configuration below.
    1. **Merchant ID** - Enter your Merchant ID provided by kashier
    2. **Test Mode**  test mode for testing and development
@@ -65,16 +63,13 @@
 - Login or Sign up on kashier.io https://merchant.kashier.io/
 - Navigate to Integrate now section > payment api keys.
 - Generate a new api key with your prefered name that describes your integration channel, there is 3 default api key you could use that is created when signing up.
-
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/apikeytest.png)
-
 - Copy Merchant ID visible under your user name "MID-xx-xx".
 - Insert the MID and Test Api Key in the Configuration page of the module.
 - Make sure the test mode is on.
 - set order status that will set for Successful, Failed, and Pending Payment.
 - Make sure  the status is on to accept payment through kashier
 - Save configuration.
-
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/configuration-test.png)
 
 ### Go live
@@ -83,13 +78,10 @@
 - Make sure you are on live mode.
 - Navigate to Integrate now section > payment api keys
 - Generate a new api key with your prefered name that describes your integration channel, there is 3 default api key you could use that is created when signing up.
-
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/apikeylive.png)
-
 - Insert Live Api Key in the Configuration page of the module.
 - Remove the test mode check.
 - Save configuration.
-
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/configuration_live.png)
 
 ### Your kashier Payment Gateway is enabled. Now you can accept payment through kashier.
