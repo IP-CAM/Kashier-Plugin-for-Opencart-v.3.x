@@ -1,7 +1,7 @@
 # kashier-openCart-plugin
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/master/kashier-logo.png)
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/master/opencart-logo.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/kashier-logo.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/opencart-logo.png)
 
 
 
@@ -21,17 +21,17 @@
 
 ### Installation
 
-- Download kashier-payments-1.0-unity.ocmod.zip https://github.com//Kashier-payments/kashier-openCart-plugin/raw/master/kashier-payments-1.0-unity.ocmod.zip
+- Download kashier-payments-1.0-unity.ocmod.zip https://github.com//Kashier-payments/kashier-openCart-plugin/raw/main/kashier-payments-1.0-unity.ocmod.zip
 - Log into **OpenCart Webstore Admin**.
 - Navigate to the **Admin Panel > Extensions > Extension installer**.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/master/steps/Opencart_ex_installer_v3.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/Opencart_ex_installer_v3.png)
 
 - Click the **Upload** button, then select the downloaded **zip** file (Step 1), then click the **Continue** button and wait for the process to complete.
 - Navigate to **Extensions > Extensions**.
 - On the Extensions page, select **Payments** from the dropdown and install the **Kashier Payments Getaway** extension.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/opencart_extn.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/main/steps/opencart_extn.png)
 
 - After installation, proceed for configuration.
 
@@ -43,7 +43,7 @@
 - On the **Extensions** page, select **Payments** from the dropdown and then install the **Kashier Payments Getaway** extension.
 - Save the configuration below.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/master/steps/open_Cart_configuration.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/main/steps/open_Cart_configuration.png)
 
 - Save the configuration below.
    1. **Merchant ID** - Enter your Merchant ID provided by kashier
