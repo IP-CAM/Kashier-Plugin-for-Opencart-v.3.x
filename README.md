@@ -32,6 +32,9 @@
 - On the Extensions page, select **Payments** from the dropdown and install the **Kashier Payment Getaway** extension.
 
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/opencart_extn.png)
+
+
+
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/open_cart_kashier.png)
 
 - After installation, proceed for configuration.
