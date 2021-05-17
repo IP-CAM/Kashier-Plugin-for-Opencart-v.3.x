@@ -75,7 +75,7 @@
 - Make sure  the status is on to accept payment through kashier
 - Save configuration.
 
-
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/configuration_test.png)
 
 ### Go live
 
@@ -89,6 +89,8 @@
 - Insert Live Api Key in the Configuration page of the module.
 - Remove the test mode check.
 - Save configuration.
+
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/configuration_live.png)
 
 ### Your kashier Payment Gateway is enabled. Now you can accept payment through kashier.
 
