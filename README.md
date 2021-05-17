@@ -31,7 +31,7 @@
 - Navigate to **Extensions > Extensions**.
 - On the Extensions page, select **Payments** from the dropdown and install the **Kashier Payments Getaway** extension.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/main/steps/opencart_extn.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/opencart_extn.png)
 
 - After installation, proceed for configuration.
 
@@ -43,7 +43,7 @@
 - On the **Extensions** page, select **Payments** from the dropdown and then install the **Kashier Payments Getaway** extension.
 - Save the configuration below.
 
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-prestashop-1.6/main/steps/open_Cart_configuration.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/open_Cart_configuration.png)
 
 - Save the configuration below.
    1. **Merchant ID** - Enter your Merchant ID provided by kashier
