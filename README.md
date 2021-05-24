@@ -47,11 +47,11 @@
 - On the **Extensions** page, select **Payments** from the dropdown and then install the **Kashier Payment Getaway** extension.
 - Save the configuration below.
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/open_Cart_configuration.png)
-- Save the configuration below.
+
    1. **Merchant ID** - Enter your Merchant ID provided by kashier
    2. **Test Mode**  test mode for testing and development
    3. **Test Api Key** - Enter your Merchant test Api Key provided by kashier
-   4. **Live Api Key** - Enter your Merchant test Api Key provided by kashier
+   4. **Live Api Key** - Enter your Merchant live Api Key provided by kashier
    5. **Order Success Status** - Order status that will set for Successful Payment
    6. **Order Failed Status** - Order status that will set for Failed Payment
    7. **Order Pending Status** - Order status that will set for Panding Payment
@@ -62,7 +62,7 @@
 
 - Login or Sign up on kashier.io https://merchant.kashier.io/
 - Navigate to Integrate now section > payment api keys.
-- Generate a new api key with your prefered name that describes your integration channel, there is 3 default api key you could use that is created when signing up.
+- Generate a new api key with your prefered name that describes your integration channel, there is a default api key you could use that is created when signing up.
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/apikeytest.png)
 - Copy Merchant ID visible under your user name "MID-xx-xx".
 - Insert the MID and Test Api Key in the Configuration page of the module.
