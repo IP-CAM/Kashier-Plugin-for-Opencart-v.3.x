@@ -15,6 +15,12 @@
 
 - Support acquiring multiple currencies "EGP, USD, GBP, EUR".
 
+- Support multiple payment method.
+
+      1. Card Payments
+      2. Wallet Payments 
+      3. Bank Installments Payment
+
 - Plug and play.
 
 - Customize order state after success payment.
@@ -29,7 +35,7 @@
 
 - Click the **Upload** button, then select the downloaded **zip** file (Step 1), then click the **Continue** button and wait for the process to complete.
 - Navigate to **Extensions > Extensions**.
-- On the Extensions page, select **Payments** from the dropdown and install the **Kashier Payment Getaway** extension.
+- On the Extensions page, select **Payments** from the dropdown and install the **Kashier Payment Method** extension you want to install.
 
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/opencart_extn.png)
 
@@ -44,7 +50,7 @@
 
 - Log into **OpenCart Webstore Admin**.
 - Navigate to **Extensions** and then select **Extensions**.
-- On the **Extensions** page, select **Payments** from the dropdown and then install the **Kashier Payment Getaway** extension.
+- On the **Extensions** page, select **Payments** from the dropdown and then install the **Kashier Payment Method** extension extension you want to enable.
 - Save the configuration below.
 ![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/open_Cart_configuration.png)
 
