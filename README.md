@@ -69,7 +69,7 @@
 - Login or Sign up on kashier.io https://merchant.kashier.io/
 - Navigate to Integrate now section > payment api keys.
 - Generate a new api key with your prefered name that describes your integration channel, there is a default api key you could use that is created when signing up.
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/apikeytest.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/apikey_mid_test.png)
 - Copy Merchant ID visible under your user name "MID-xx-xx".
 - Insert the MID and Test Api Key in the Configuration page of the module.
 - Make sure the test mode is on.
@@ -84,7 +84,7 @@
 - Make sure you are on live mode.
 - Navigate to Integrate now section > payment api keys
 - Generate a new api key with your prefered name that describes your integration channel, there is 3 default api key you could use that is created when signing up.
-![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/apikeylive.png)
+![](https://raw.githubusercontent.com/Kashier-payments/kashier-openCart-plugin/main/steps/apikey_mid_live.png)
 - Insert Live Api Key in the Configuration page of the module.
 - Remove the test mode check.
 - Save configuration.
